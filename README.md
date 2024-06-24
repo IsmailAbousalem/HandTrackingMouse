@@ -9,6 +9,6 @@ Experience touchless interaction with your computer via my Python/AI project! Co
 
 ![image](https://github.com/IsmailAbousalem/HandTrackingMouse/assets/100754446/bdc3f244-da7d-4599-a884-1281d98e4c17)
 
-# If both fingers are up, it is detected as a click.
+# The pink dots on the Pointer and Ring finger determine the distance of each finger to eachother. If the fingers are within a certain distance (close enough to where they are together), then it will register a mouse click. 
 
 ![image](https://github.com/IsmailAbousalem/HandTrackingMouse/assets/100754446/2b938087-abfa-4f2a-95a3-dddf41d5fe66)
