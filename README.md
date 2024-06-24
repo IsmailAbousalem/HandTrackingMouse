@@ -1,7 +1,7 @@
 # HandTrackingMouse
 Experience touchless interaction with your computer via my Python/AI project! Control your mouse with gesture-based hand tracking.
 
-# PyAutoGUI, cv2, and MediaPipe are used to track and detect the hand and plot different points onto the fingers.
+# PyAutoGUI, cv2, and MediaPipe are used to track and detect the hand and plot different points onto the fingers. The pink border on screen is related to the edge of the computer screen. If you move your finger to the edge of the pink box, you are at the edge of your monitor.
 
 ![image](https://github.com/IsmailAbousalem/HandTrackingMouse/assets/100754446/30c6ff56-fc77-4f4a-82ae-9057e4eb863f)
 
